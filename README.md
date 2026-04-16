@@ -203,6 +203,13 @@ This list serves as a reference for researchers and practitioners exploring the 
 | [AssistPDA: An Online Video Surveillance Assistant for Video Anomaly Prediction, Detection, and Analysis](https://arxiv.org/abs/2503.21904)            | VAPDA-127K       | 2025/03 | N/A                                                             | arXiv        | Proactive Anomaly Prediction, Online Anomaly Detection, Interactive Anomaly Analysis                          |
 | [OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?](https://arxiv.org/abs/2501.05510)                                  | OVO-Bench        | 2025/01 | [Link](https://github.com/JoeLeelyf/OVO-Bench)                  | CVPR 2025    | Forward Active Responding (When to Answer), Backward Tracing, Real-time Perception                            |
 | [VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format](https://arxiv.org/abs/2411.17991) | MMDuetIT         | 2024/11 | [Link](https://huggingface.co/datasets/wangyueqian/MMDuetIT)    | arXiv        | Multi-Answer Grounded QA, Proactive Response Generation                                                       |
+| [Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance?](https://arxiv.org/abs/2511.21998)                                                      | QICD             | 2025/11 | [Link](https://apratimbh.github.io/livecook/)                   | NeurIPS 2025 | Streaming Dialogue, Proactive Response Generation, Response Timing (When to speak)                            | 
+
+## 🏆 Competitions
+
+| Name                                                  | Venue       |
+|:------------------------------------------------------|:------------|
+| [AI Coach](https://varworkshop.github.io/challenges/) |  CVPR 2026  |
 
 ### Complete Model List by Release Date
 
@@ -303,6 +310,7 @@ This list serves as a reference for researchers and practitioners exploring the 
 | [VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format](https://arxiv.org/abs/2411.17991) | MMDuetIT           | 2024/11 | [Link](https://huggingface.co/datasets/wangyueqian/MMDuetIT)        | arXiv        |
 | [TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models](https://arxiv.org/abs/2410.10818)                        | TemporalBench      | 2024/10 | [Link](https://huggingface.co/datasets/microsoft/TemporalBench)     | arXiv        |
 | [What to Say and When to Say it: Live Fitness Coaching as a Testbed for Situated Interaction](https://arxiv.org/abs/2407.08101)                        | QEVD-FIT-COACH     | 2024/07 | [Link](https://www.qualcomm.com/developer/software/qevd-dataset)    | NeurIPS 2024 |
+| [Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance?](https://arxiv.org/abs/2511.21998)                                                      | QICD               | 2025/11 | [Link](https://apratimbh.github.io/livecook/)                       | NeurIPS 2025 |
 
 </details>
 
