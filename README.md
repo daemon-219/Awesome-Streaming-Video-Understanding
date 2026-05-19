@@ -16,7 +16,7 @@ The repository is organized to reflect these core challenges and the supporting 
 
 This list serves as a reference for researchers and practitioners exploring the frontier of always-on, interactive video AI systems. Love this awesome list? Help others discover it by starring the repository! ⭐
 
-![image](./assets/Timeline.png)
+![image](./assets/Timeline.jpg)
 
 ### <font size=5><center><b> Table of Contents </b> </center></font>
 - [🔔 Proactive Streaming Models](#-proactive-streaming-models)
